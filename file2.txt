@@ -3,5 +3,3 @@ This is a new file
 I have added another file.
 
 I want to practice stash
-
-
