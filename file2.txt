@@ -2,5 +2,5 @@ This is a new file
 
 I have added another file.
 
-If I were to start all over
+I want to practice stash
 
